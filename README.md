@@ -7,7 +7,7 @@ Climb the ladder from **Circuit Racer** to **Rainbow Master** by submitting your
 
 ## 🌐 Website
 
-Visit the live site: [https://blebbyboi-developer.github.io/mkdd-ranked/](https://blebbyboi-dev.github.io/mkdd-ranked/)
+Visit the live site: [https://blebbyboi-developer.github.io/mkdd-ranked/](https://blebbyboi-developer.github.io/mkdd-ranked/)
 
 ---
 
